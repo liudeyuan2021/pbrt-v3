@@ -6,3 +6,7 @@ src/objs
 **/.DS_Store
 **/.vscode
 **/.VSCodeCounter
+scenes/*
+!scenes/examples/
+!scenes/images/
+!scenes/README.md.html
