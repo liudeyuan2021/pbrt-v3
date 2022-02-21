@@ -5,3 +5,4 @@ src/objs
 .sconsign.dblite
 **/.DS_Store
 **/.vscode
+**/.VSCodeCounter
