@@ -5,8 +5,10 @@ src/objs
 .sconsign.dblite
 **/.DS_Store
 **/.vscode
+**/build
 **/.VSCodeCounter
 scenes/*
 !scenes/examples/
 !scenes/images/
 !scenes/README.md.html
+cmd.txt
